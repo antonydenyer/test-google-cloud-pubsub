@@ -1,3 +1,5 @@
-# Test Google Cloud Storage
+# Test Google Cloud Platform - PubSub
 
-Example code on how to test google cloud storage using mocks and testcontainers.
+Example code on how to test google cloud platform PubSub using testcontainers.
+
+https://www.antonydenyer.co.uk/2020-08-24-kotlin-testcontainers-gcp-pubsub/
